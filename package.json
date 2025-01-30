@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "faastjs": "^8.0.75",
+    "typescript": "^5.7.3"
+  },
+  "name": "cs239",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "test": "npx tsc && node dist/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
